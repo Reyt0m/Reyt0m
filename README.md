@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reyt0m&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Reyt0m&theme=github_dark&repo=EcowRap)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Reyt0m/EcowRap.git))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Reyt0m&theme=github_dark&repo=EcowRap)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Reyt0m/5chCpy))
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
